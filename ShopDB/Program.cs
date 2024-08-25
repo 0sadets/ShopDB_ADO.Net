@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace ShopDB
+{
+    internal class Program
+    {
+        // Packages:
+        // Microsoft.EntityFrameworkCore
+        // Microsoft.EntityFrameworkCore.SqlServer 
+        // Microsoft.EntityFrameworkCore.Tools - for migrations
+
+        // for migrations: Tools ->
+                        // NuGet Package Manager ->
+                        // Package Manager Console -> 
+                        // *add-migration [name] 
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
