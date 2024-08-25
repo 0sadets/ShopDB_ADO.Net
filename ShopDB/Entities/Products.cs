@@ -16,5 +16,6 @@ namespace ShopDB.Entities
         public bool IsInStock {  get; set; }
         public int? CategoryId { get; set; }
         public Categories Category { get; set; }
+        public ICollection<Shops> Shops { get; set; }
     }
 }

@@ -12,5 +12,6 @@ namespace ShopDB.Entities
         public string Name { get; set; }
         public int CountryId {  get; set; }
         public Countries Country { get; set; }
+        public ICollection<Shops> Shops { get; set; }
     }
 }

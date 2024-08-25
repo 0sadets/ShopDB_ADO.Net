@@ -15,5 +15,6 @@ namespace ShopDB.Entities
         public Cities City { get; set; }
         public int? ParkingArea {  get; set; }
         public ICollection<Products> Products { get; set; }
+        public ICollection<Workers> Workers { get; set; }
     }
 }
