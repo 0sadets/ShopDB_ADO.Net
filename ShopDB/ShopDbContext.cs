@@ -28,7 +28,7 @@ namespace ShopDB
 
 
             optionsBuilder.UseSqlServer(@"Data Source = localhost\SQLEXPRESS;
-                                 Initial Catalog= MusicDb;
+                                 Initial Catalog= ShopDb;
                                  Integrated Security=true;
                                  Connect Timeout = 2;Encrypt=False;
                                  Trust Server Certificate=False;

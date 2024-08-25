@@ -12,11 +12,13 @@ namespace ShopDB
         // for migrations: Tools ->
                         // NuGet Package Manager ->
                         // Package Manager Console -> 
-                        // *add-migration [name] 
+                        // *add-migration [name]*
+                        // update-database
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            ShopDbContext db = new ShopDbContext();
         }
     }
 }
