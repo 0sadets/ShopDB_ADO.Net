@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|solutionrelative:helpers\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|d:\\step\\ado.net\\shopdb_ado.net\\shopdb\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|solutionrelative:shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|d:\\step\\ado.net\\shopdb_ado.net\\shopdb\\migrations\\shopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|solutionrelative:migrations\\shopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\20240825223954_InitialSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240825223954_InitialSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|d:\\step\\ado.net\\shopdb_ado.net\\shopdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\20240825215511_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240825215511_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|d:\\step\\ado.net\\shopdb_ado.net\\shopdb\\shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|solutionrelative:shopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|d:\\step\\ado.net\\shopdb_ado.net\\shopdb\\migrations\\shopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|solutionrelative:migrations\\shopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|d:\\step\\ado.net\\shopdb_ado.net\\shopdb\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|d:\\step\\ado.net\\shopdb_ado.net\\shopdb\\entities\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|solutionrelative:entities\\countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|d:\\step\\ado.net\\shopdb_ado.net\\shopdb\\migrations\\20240825215511_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054C33D3-FFA4-42E3-A241-6F31EEB06F3B}|ShopDB.csproj|solutionrelative:migrations\\20240825215511_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +62,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240825223954_InitialSeed.cs",
+              "DocumentMoniker": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\20240825223954_InitialSeed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240825223954_InitialSeed.cs",
+              "ToolTip": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\20240825223954_InitialSeed.cs",
+              "RelativeToolTip": "Migrations\\20240825223954_InitialSeed.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAYwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T22:39:54.696Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -68,7 +85,7 @@
               "RelativeDocumentMoniker": "Helpers\\DbInitializer.cs",
               "ToolTip": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Helpers\\DbInitializer.cs",
               "RelativeToolTip": "Helpers\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwFgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T22:04:40.206Z",
               "EditorCaption": ""
@@ -76,38 +93,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ShopDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\ShopDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ShopDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\ShopDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ShopDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T21:55:18.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T19:43:29.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ShopDbContext.cs",
               "DocumentMoniker": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\ShopDbContext.cs",
               "RelativeDocumentMoniker": "ShopDbContext.cs",
               "ToolTip": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\ShopDbContext.cs",
               "RelativeToolTip": "ShopDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAxwB4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAAK4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T19:52:09.37Z",
               "EditorCaption": ""
@@ -115,6 +119,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ShopDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\ShopDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ShopDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\ShopDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ShopDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:55:18.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20240825215511_FirstMigration.cs",
               "DocumentMoniker": "D:\\Step\\ADO.NET\\ShopDB_ADO.Net\\ShopDB\\Migrations\\20240825215511_FirstMigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240825215511_FirstMigration.cs",
@@ -122,8 +138,7 @@
               "RelativeToolTip": "Migrations\\20240825215511_FirstMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T21:55:11.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T21:55:11.339Z"
             },
             {
               "$type": "Document",

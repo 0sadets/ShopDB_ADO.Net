@@ -19,6 +19,10 @@ namespace ShopDB
         {
 
             ShopDbContext db = new ShopDbContext();
+            foreach(var a in db.Positions)
+            {
+                Console.WriteLine($"{a.Id} {a.Name}");
+            }
         }
     }
 }

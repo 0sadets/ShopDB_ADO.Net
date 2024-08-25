@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ShopDB.Entities;
+using ShopDB.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -161,6 +162,18 @@ namespace ShopDB
             modelBuilder.Entity<Products>()
                 .HasMany(p => p.Shops)
                 .WithMany(a => a.Products);
+
+
+            //Initialization - Seeder
+
+            modelBuilder.SeedCategories();
+            modelBuilder.SeedCities();
+            modelBuilder.SeedCountries();
+            modelBuilder.SeedPositions();
+            modelBuilder.SeedProducts();
+            modelBuilder.SeedShops();
+            modelBuilder.SeedWorkers();
+
         }
     }
 }
